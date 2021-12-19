@@ -22,7 +22,7 @@ function Calculate() {
         <input type="number" id="value"/>
         <button type="submit">Submit</button>
       </form>
-      <span>submitted: {average} average: {average/count}</span>
+      <span>total: {average} average: {average/count}</span>
     </div>
   );
 }
